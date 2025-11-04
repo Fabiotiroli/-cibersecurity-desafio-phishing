@@ -28,7 +28,7 @@ Setoolkit
 
 
 
-<img width="567" height="319" alt="image" src="https://github.com/user-attachments/assets/8883934b-ce52-45e5-bd9f-ba64d83c3dcb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4479005-5204-44fd-b57b-6313feda29f6" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e647cc1-6e9a-4f5b-aec1-4d7c0898b921" />
 
@@ -39,168 +39,14 @@ Setoolkit
 
 Relatório:
 
-<harvester>
-login.facebook.com/login.php
-<url>
-<param>------WebKitFormBoundary0CAnMjDBGpLeXtls</param>
-</url>
-<url>
-<param>local_storage[signal_flush_timestamp]=13</param>
-<param>local_storage[Session]=20</param>
-<param>local_storage[hb_timestamp]=13</param>
-<param>local_storage[banzai:last_storage_flush]=18</param>
-<param>session_storage[sp_pi]=216</param>
-<param>session_storage[TabId]=6</param>
-<param>logtime=0</param>
-<param>__aaid=0</param>
-<param>__user=0</param>
-<param>__a=1</param>
-<param>__req=2</param>
-<param>__hs=20396.BP:DEFAULT.2.0...0</param>
-<param>dpr=2</param>
-<param>__ccg=EXCELLENT</param>
-<param>__rev=1029362725</param>
-<param>__s=8v3pel:o6tmps:x4d5kn</param>
-<param>__hsi=7568865568772464419</param>
-<param>
-__dyn=7xe6E5aQ1PyUbFp41twpUnwgU29zE6u7E3rw5ux609vCwjE1EE2Cw8G1Qw5Mx61vw5zwqo1nE1u83mwaS0zK1sw2oEG0hi0Lo6-0uS0ue0QU3yw
-</param>
-<param>__hsdp=gIMX1-VUt_a3AM2ow</param>
-<param>
-__hblp=0Vwbq12w2jU1Bo7y0bUw57w3EE3Lw08N25U0lnyto423y7F-07ME
-</param>
-<param>lsd=AdEmelkpO9U</param>
-<param>jazoest=2992</param>
-<param>__spin_r=1029362725</param>
-<param>__spin_b=trunk</param>
-<param>__spin_t=1762263842</param>
-</url>
-<url>
-<param>local_storage[signal_flush_timestamp]=13</param>
-<param>local_storage[Session]=20</param>
-<param>local_storage[hb_timestamp]=13</param>
-<param>local_storage[banzai:last_storage_flush]=18</param>
-<param>session_storage[sp_pi]=216</param>
-<param>session_storage[TabId]=6</param>
-<param>logtime=0</param>
-<param>__aaid=0</param>
-<param>__user=0</param>
-<param>__a=1</param>
-<param>__req=3</param>
-<param>__hs=20396.BP:DEFAULT.2.0...0</param>
-<param>dpr=2</param>
-<param>__ccg=EXCELLENT</param>
-<param>__rev=1029362725</param>
-<param>__s=:o6tmps:x4d5kn</param>
-<param>__hsi=7568865568772464419</param>
-<param>
-__dyn=7xe6E5aQ1PyUbFp41twpUnwgU29zE6u7E3rw5ux609vCwjE1EE2Cw8G1Qw5Mx61vw5zwqo1nE1u83mwaS0zK1sw2oEG0hi0Lo6-0uS0ue0QU3yw
-</param>
-<param>__hsdp=gIMX1-VUt_a3AM2ow</param>
-<param>
-__hblp=0Vwbq12w2jU1Bo7y0bUw57w3EE3Lw08N25U0lnyto423y7F-07ME
-</param>
-<param>lsd=AdEmelkpO9U</param>
-<param>jazoest=2992</param>
-<param>__spin_r=1029362725</param>
-<param>__spin_b=trunk</param>
-<param>__spin_t=1762263842</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryHk3yiAi41UHrAwta</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryQk88c6y5ZOGRpvGl</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryIcAUN412pzQ2BQx5</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryCBY7nndhY3QTjcFZ</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryWA1GACZ1ADIYDPVZ</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryMuViVxem2LIm2qi4</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryMSDf9BLP28bbTa51</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryG58lhvwXB04xRWgp</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryUwa8magIWT8DXMAR</param>
-</url>
-<url>
-<param>local_storage[signal_flush_timestamp]=13</param>
-<param>local_storage[Session]=20</param>
-<param>local_storage[hb_timestamp]=13</param>
-<param>local_storage[banzai:last_storage_flush]=18</param>
-<param>session_storage[sp_pi]=216</param>
-<param>session_storage[TabId]=6</param>
-<param>logtime=0</param>
-<param>__aaid=0</param>
-<param>__user=0</param>
-<param>__a=1</param>
-<param>__req=4</param>
-<param>__hs=20396.BP:DEFAULT.2.0...0</param>
-<param>dpr=2</param>
-<param>__ccg=EXCELLENT</param>
-<param>__rev=1029362725</param>
-<param>__s=fvb53j:o6tmps:vor21y</param>
-<param>__hsi=7568865568772464419</param>
-<param>
-__dyn=7xe6E5aQ1PyUbFp41twpUnwgU29zE6u7E3rw5ux609vCwjE1EE2Cw8G1Qw5Mx61vw5zwqo1nE1u83mwaS0zK1sw2oEG0hi0Lo6-0uS0ue0QU3yw
-</param>
-<param>__hsdp=gIMX1-VUt_a3AM2ow</param>
-<param>
-__hblp=0Vwbq12w2jU1Bo7y0bUw57w3EE3Lw08N25U0lnyto423y7F-07ME
-</param>
-<param>lsd=AdEmelkpO9U</param>
-<param>jazoest=2992</param>
-<param>__spin_r=1029362725</param>
-<param>__spin_b=trunk</param>
-<param>__spin_t=1762263842</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryRKLYLVzePFUEZvGB</param>
-</url>
-<url>
-<param>local_storage[signal_flush_timestamp]=13</param>
-<param>local_storage[Session]=20</param>
-<param>local_storage[hb_timestamp]=13</param>
-<param>local_storage[banzai:last_storage_flush]=18</param>
-<param>session_storage[sp_pi]=216</param>
-<param>session_storage[TabId]=6</param>
-<param>logtime=0</param>
-<param>__aaid=0</param>
-<param>__user=0</param>
-<param>__a=1</param>
-<param>__req=6</param>
-<param>__hs=20396.BP:DEFAULT.2.0...0</param>
-<param>dpr=2</param>
-<param>__ccg=EXCELLENT</param>
-<param>__rev=1029362725</param>
-<param>__s=:o6tmps:vor21y</param>
-<param>__hsi=7568865568772464419</param>
-<param>
-__dyn=7xe6E5aQ1PyUbFp41twpUnwgU29zE6u7E3rw5ux609vCwjE1EE2Cw8G1Qw5Mx61vw5zwqo1nE1u83mwaS0zK1sw2oEG0hi0Lo6-0uS0ue0QU3yw
-</param>
-<param>__hsdp=gIMX1-VUt_a3AM2ow</param>
-<param>
-__hblp=0Vwbq12w2jU1Bo7y0bUw57w3EE3Lw08N25U0lnyto423y7F-07ME
-</param>
-<param>lsd=AdEmelkpO9U</param>
-<param>jazoest=2992</param>
-<param>__spin_r=1029362725</param>
-<param>__spin_b=trunk</param>
-<param>__spin_t=1762263842</param>
-</url>
-<url>
-<param>------WebKitFormBoundaryuCLAt8oBLyUWz8RX</param>
-</url>
-</harvester>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac013c71-d6e2-4ac4-882a-e2f34cb859d7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ebafe77-f2ec-44a0-afe2-662c758bf1aa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9360e357-3b35-4b6d-8630-c5998488ba94" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63cb2eb7-578a-4fbd-b0f4-de63bc2140fa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1bba5da-d3e3-47da-8324-1af3022d7442" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7137bd1-2c50-4fbf-bc79-f2181da483f0" />
+
+
+
 
 
